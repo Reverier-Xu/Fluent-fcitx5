@@ -16,9 +16,15 @@ put the `FluentDark` folder under `/usr/share/fcitx5/themes/` or `$HOME/.local/s
 
 suggested that use a monospace font such as `JetBrains Mono` in 12pt.
 
+Arch Linux users:
+
+```shell
+paru -S fcitx5-skin-fluentdark-git
+```
+
 ## Misc
 
-This theme contains a new feature here: [fcitx5/pull/474](https://github.com/fcitx/fcitx5/pull/474), old versions may have unexpected offsets. if you like, you can modify the margins and remove the shadow of panel.png.
+This theme uses a new feature here: [fcitx5/pull/474](https://github.com/fcitx/fcitx5/pull/474), old versions may have unexpected offsets. if you like, you can modify the margins and remove the shadow of panel.png.
 
 ## LICENSE
 
