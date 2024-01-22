@@ -26,7 +26,7 @@ paru -S fcitx5-skin-fluentdark-git
 
 This theme uses a new feature here: [fcitx5/pull/474](https://github.com/fcitx/fcitx5/pull/474), old versions may have unexpected offsets. if you like, you can modify the margins and remove the shadow of panel.png.
 
-And please note that the fcitx5 blur effect provided by kwin won't work on Wayland, so I provided a solid theme `FluentDark-solid` if you don't like the transparent-but-not-blurred panel.
+Please note that the fcitx5 blurring effects provided by lower versions of kwin may not work on Wayland, so if you don't like transparent-but-not-blurred panels, I have provided a solid theme `FluentDark-solid`. Also, the input panels are positioned by Wayland, not fcitx5, so the shadow margin feature will not work on Wayland either.
 
 ## LICENSE
 
