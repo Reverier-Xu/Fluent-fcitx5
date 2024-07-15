@@ -33,10 +33,6 @@ This theme uses a new feature here: [fcitx5/pull/474](https://github.com/fcitx/f
 
 Please note that the fcitx5 blurring effects provided by lower versions of kwin may not work on Wayland, so if you don't like transparent-but-not-blurred panels, I have provided a solid theme `Fluent*-solid`. Also, the input panels are positioned by Wayland, not fcitx5, so the shadow margin feature will not work on Wayland either.
 
-### Donate
-
-[aifadian.net](https://afdian.net/a/reverier)
-
 ## LICENSE
 
 Mozilla Public License v2
