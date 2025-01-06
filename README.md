@@ -33,8 +33,12 @@ This theme uses a new feature here: [fcitx5/pull/474](https://github.com/fcitx/f
 
 Please note that the fcitx5 blurring effects provided by lower versions of kwin may not work on Wayland, so if you don't like transparent-but-not-blurred panels, I have provided a solid theme `Fluent*-solid`. Also, the input panels are positioned by Wayland, not fcitx5, so the shadow margin feature will not work on Wayland either.
 
+## And...
+
+If you want a round-corner fcitx5 skin, maybe you can try this: [Reverier-Xu/Ori-Fcitx5](https://github.com/Reverier-Xu/Ori-Fcitx5).
+
 ## LICENSE
 
 Mozilla Public License v2
 
-@ 2022 Reverier-Xu.
+@ 2022 - 2025 Reverier-Xu.
